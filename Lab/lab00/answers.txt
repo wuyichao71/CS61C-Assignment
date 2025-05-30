@@ -1,3 +1,7 @@
+mv
+chmod
+pwd
+ping
 grep -r
 ps aux
 kill
