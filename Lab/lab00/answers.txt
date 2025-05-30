@@ -1,3 +1,4 @@
+ls -l
 grep -r
 ps aux
 kill
